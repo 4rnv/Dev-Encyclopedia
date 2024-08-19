@@ -6,7 +6,7 @@ Please upvote and give it a share, so the word will spread, helping hundreds of 
 
 > This project is currently under development and a lot of space for improvement is left. Help me build this project by contributing to this repository
 # Dev Encyclopedia; 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [devpedia.pages.dev](https://devpedia.pages.dev/) | [devpedia.dev](https://devpedia.dev/)
 
 
 
